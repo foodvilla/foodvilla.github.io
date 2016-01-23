@@ -1,0 +1,24 @@
+.mainLogin{
+	position:fixed;
+	top: 10%;
+	left: 37%;
+	color: #FFF;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.usernameBox{
+	margin:10px;
+	margin-top:50px;
+	padding-left: 10%;
+}
+
+.passwordBox{
+	margin: 10px;
+	padding-left: 10%;
+}
+
+body{
+	background: url("../image/back2.png") no-repeat;
+	background-size: 100%;
+}
